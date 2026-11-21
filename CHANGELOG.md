@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.1.0 — 2026-11-21
+
+- 1.20.1 **Fabric** build (requires [Fabric API](https://modrinth.com/mod/fabric-api))
+- 1.20.1 Forge repackaged as 2.1.0 with blast-furnace recipes added (parity with 1.21.1)
+- Note: on 1.20.1 the furnace engine cannot output more than 1 item per smelt, so the coal-block bulk recipe (→ 9 gunpowder) is exclusive to 1.21.1+
+
 ## 3.2.0 — 2026-11-21
 
 - Ported to Minecraft 1.21.1 on **Forge / NeoForge / Fabric** (Fabric version requires [Fabric API](https://modrinth.com/mod/fabric-api))
