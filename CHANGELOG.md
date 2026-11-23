@@ -1,5 +1,15 @@
 # Changelog
 
+## 3.5.0 / 3.6.0 / 3.7.0 — 2026-11-23
+
+- Ported to the 26.x era on **Fabric** (requires [Fabric API](https://modrinth.com/mod/fabric-api))
+  - 3.5.0 → Minecraft 26.1.2
+  - 3.6.0 → Minecraft 26.2
+  - 3.7.0 → Minecraft 26.3
+- Recipe format carried over from 1.21.2+ (string `ingredient`, `result` object) — verified working unchanged
+- All four recipes verified on dedicated servers (26.1.2 / 26.2 / 26.3, furnace + blast furnace, coal + charcoal)
+- Note: Minecraft 26.x dedicated servers require **Java 25**
+
 ## 3.2.1 — 2026-11-22
 
 - **Removed the coal block → gunpowder blasting recipe** on all 1.21+ loaders (Forge / NeoForge / Fabric)
