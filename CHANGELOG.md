@@ -2,7 +2,8 @@
 
 ## 3.5.0 / 3.6.0 / 3.7.0 — 2026-11-23
 
-- Ported to the 26.x era on **Fabric** (requires [Fabric API](https://modrinth.com/mod/fabric-api))
+- Ported to the 26.x era on **Fabric / NeoForge** (Fabric requires [Fabric API](https://modrinth.com/mod/fabric-api))
+- NeoForge 26.x is still in beta upstream; metadata format identical to our verified 1.21+ NeoForge builds
   - 3.5.0 → Minecraft 26.1.2
   - 3.6.0 → Minecraft 26.2
   - 3.7.0 → Minecraft 26.3

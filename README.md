@@ -22,9 +22,9 @@
 
 | MC 版本 | Loader 加载器 | File 文件 |
 |---|---|---|
-| 26.3 | Fabric | 3.7.0（需要 Fabric API） |
-| 26.2 | Fabric | 3.6.0（需要 Fabric API） |
-| 26.1.2 | Fabric | 3.5.0（需要 Fabric API） |
+| 26.3 | Fabric / NeoForge | 3.7.0（Fabric 需要 Fabric API） |
+| 26.2 | Fabric / NeoForge | 3.6.0（Fabric 需要 Fabric API） |
+| 26.1.2 | Fabric / NeoForge | 3.5.0（Fabric 需要 Fabric API） |
 | 1.21.11 | Fabric | 3.4.0（需要 Fabric API） |
 | 1.21.11 | NeoForge | 3.4.0 |
 | 1.21.4 | Fabric | 3.3.0（需要 Fabric API） |
@@ -49,9 +49,9 @@
 
 ```
 src/            Forge 1.20.1 完整可编译工程（配方即数据包 JSON，无 Java 逻辑）
-26.3/           v3.7.0 源文件（配方 + Fabric 元数据）
-26.2/           v3.6.0 源文件（配方 + Fabric 元数据）
-26.1.2/         v3.5.0 源文件（配方 + Fabric 元数据）
+26.3/           v3.7.0 源文件（配方 + Fabric/NeoForge 元数据）
+26.2/           v3.6.0 源文件（配方 + Fabric/NeoForge 元数据）
+26.1.2/         v3.5.0 源文件（配方 + Fabric/NeoForge 元数据）
 1.21.11/        v3.4.0 源文件（配方 + NeoForge/Fabric 元数据）
 1.21.4/         v3.3.0 源文件（配方 + NeoForge/Fabric 元数据）
 1.21.1/         v3.2.1 三加载器源文件（配方 + Forge/NeoForge/Fabric 元数据）
