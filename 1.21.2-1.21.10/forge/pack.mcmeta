@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "Manufacture Gunpowder resources",
+    "pack_format": 61,
+    "supported_formats": {"min_inclusive": 45, "max_inclusive": 61},
+    "min_format": 45,
+    "max_format": 61
+  }
+}

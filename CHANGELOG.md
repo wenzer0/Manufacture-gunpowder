@@ -70,3 +70,9 @@
 ## 0.1.0 — 2026-01-25
 
 - 1.12.2 Forge — first release
+## v3.8.0 — 2026-11-23
+
+- **Wide-range build**: one jar covers Minecraft 1.21.2 through 1.21.10 on Fabric / NeoForge / Forge
+- Recipes unchanged: coal/charcoal × furnace/blast furnace → 1 gunpowder
+- Verified on real servers at the range edges: Fabric 1.21.2 / 1.21.9, NeoForge 1.21.5, Forge 1.21.3 (Forge skipped 1.21.2 upstream)
+
