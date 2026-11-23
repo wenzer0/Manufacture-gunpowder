@@ -9,6 +9,7 @@
   - 3.7.0 → Minecraft 26.3
 - Recipe format carried over from 1.21.2+ (string `ingredient`, `result` object) — verified working unchanged
 - All four recipes verified on dedicated servers (26.1.2 / 26.2 / 26.3, furnace + blast furnace, coal + charcoal)
+- **Forge builds added** for 1.21.4 (Forge 54.1.22) / 1.21.11 (Forge 61.2.5) / 26.1.2 (Forge 64.1.x) / 26.2 (Forge 65.1.x) / 26.3 (Forge 66.1.9) — Forge 26.3 and 1.21.4 verified on dedicated servers
 - Note: Minecraft 26.x dedicated servers require **Java 25**
 
 ## 3.2.1 — 2026-11-22
