@@ -7,11 +7,16 @@
     "lingzhihe"
   ],
   "license": "All Rights Reserved",
+  "icon": "icon.png",
+  "contact": {
+    "homepage": "https://github.com/wenzer0/Manufacture-gunpowder",
+    "sources": "https://github.com/wenzer0/Manufacture-gunpowder"
+  },
   "environment": "*",
   "description": "A tiny vanilla+ datapack-style mod: smelt or blast coal/charcoal to gunpowder. Pure data, no code.",
   "depends": {
     "fabricloader": ">=0.15.0",
-    "minecraft": "~26.1.2",
+    "minecraft": ">=26.1 <26.2",
     "java": ">=21",
     "fabric-api": "*"
   }

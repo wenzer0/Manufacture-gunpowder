@@ -24,7 +24,7 @@
 |---|---|---|
 | 26.3 | Fabric / NeoForge / Forge | 3.7.0（Fabric 需要 Fabric API） |
 | 26.2 | Fabric / NeoForge / Forge | 3.6.0（Fabric 需要 Fabric API） |
-| 26.1.2 | Fabric / NeoForge / Forge | 3.5.0（Fabric 需要 Fabric API） |
+| 26.1 / 26.1.1 / 26.1.2 | Fabric / NeoForge / Forge | 3.5.0（Fabric 需要 Fabric API） |
 | 1.21.2 – 1.21.10 | Fabric / NeoForge / Forge | 3.8.0（Fabric 需要 Fabric API） |
 | 1.21.11 | Fabric / NeoForge / Forge | 3.4.0（Fabric 需要 Fabric API） |
 | 1.21.11 | NeoForge | 3.4.0 |

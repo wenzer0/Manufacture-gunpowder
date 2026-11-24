@@ -13,7 +13,7 @@ description='''Adds furnace and blasting recipes that convert coal and charcoal 
 [[dependencies.manufacture_gunpowder]]
     modId="minecraft"
     type="required"
-    versionRange="[26.1.2]"
+    versionRange="[26.1,26.2)"
     ordering="NONE"
     side="BOTH"
 
