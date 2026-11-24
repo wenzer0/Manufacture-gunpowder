@@ -70,6 +70,11 @@
 ## 0.1.0 — 2026-01-25
 
 - 1.12.2 Forge — first release
+## v1.0.1 – v1.4.0 — 2026-11-24
+
+- **Legacy Fabric support**: Fabric builds for 1.16.5 / 1.17.1 / 1.18.2 / 1.19.2 / 1.19.4 (previously Forge-only), plus Forge 1.19.4
+- Verified on Fabric 1.16.5 and 1.19.4 dedicated servers
+
 ## v2.3.0 & v3.9.0 — 2026-11-24
 
 - **Wide-range builds**: 2.3.0 covers 1.20.2–1.20.4, 3.9.0 covers 1.20.5–1.21.1 (Fabric / NeoForge / Forge)

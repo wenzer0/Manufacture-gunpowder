@@ -1,0 +1,27 @@
+modLoader="lowcodefml"
+loaderVersion="[44,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="manufacture_gunpowder"
+version="1.4.0"
+displayName="Manufacture Gunpowder"
+authors="lingzhihe"
+logoFile="icon.png"
+description='''
+Adds furnace and blasting recipes that convert coal and charcoal into gunpowder. Lightweight, vanilla-plus, perfect for modpacks where creepers are scarce.
+'''
+
+[[dependencies.manufacture_gunpowder]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.manufacture_gunpowder]]
+    modId="forge"
+    mandatory=true
+    versionRange="[44,)"
+    ordering="NONE"
+    side="BOTH"

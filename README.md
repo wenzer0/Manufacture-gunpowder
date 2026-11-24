@@ -40,10 +40,10 @@
 | 1.20.4 | Fabric | 2.2.0（需要 Fabric API） |
 | 1.20.1 | Forge | 2.1.0 |
 | 1.20.1 | Fabric | 2.1.0（需要 Fabric API） |
-| 1.19.2 | Forge | 1.3.0 |
-| 1.18.2 | Forge | 1.2.0 |
-| 1.17.1 | Forge | 1.1.0 |
-| 1.16.5 | Forge | 1.0.0 |
+| 1.19.2 | Forge / Fabric | 1.3.0 |
+| 1.18.2 | Forge / Fabric | 1.2.0 |
+| 1.17.1 | Forge / Fabric | 1.1.0 |
+| 1.16.5 | Forge / Fabric | 1.0.0 |
 | 1.12.2 | Forge | 0.1.0 |
 
 成品的 jar 请在 [GitHub Releases](https://github.com/wenzer0/Manufacture-gunpowder/releases)、[CurseForge](https://www.curseforge.com/minecraft/mc-mods/manufacture-gunpowder) 或 [Modrinth](https://modrinth.com/mod/manufacture-gunpowder) 下载。

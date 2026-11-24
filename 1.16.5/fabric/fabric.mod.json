@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "manufacture_gunpowder",
+  "version": "1.0.1",
+  "name": "Manufacture Gunpowder",
+  "authors": [
+    "lingzhihe"
+  ],
+  "license": "All Rights Reserved",
+  "environment": "*",
+  "icon": "icon.png",
+  "contact": {
+    "homepage": "https://github.com/wenzer0/Manufacture-gunpowder",
+    "sources": "https://github.com/wenzer0/Manufacture-gunpowder"
+  },
+  "description": "Adds furnace and blasting recipes that convert coal and charcoal into gunpowder. Lightweight, vanilla-plus, perfect for modpacks where creepers are scarce.",
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": "~1.16.5",
+    "java": ">=8",
+    "fabric": "*"
+  }
+}
