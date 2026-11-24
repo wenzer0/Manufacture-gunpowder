@@ -70,6 +70,12 @@
 ## 0.1.0 — 2026-01-25
 
 - 1.12.2 Forge — first release
+## v2.3.0 & v3.9.0 — 2026-11-24
+
+- **Wide-range builds**: 2.3.0 covers 1.20.2–1.20.4, 3.9.0 covers 1.20.5–1.21.1 (Fabric / NeoForge / Forge)
+- Forge 3.9.0 supports 1.20.6+ (Forge skipped 1.20.5 upstream)
+- Verified on Fabric 1.20.4 / 1.20.5, NeoForge 1.20.4, Forge 1.20.6 dedicated servers
+
 ## v3.8.0 — 2026-11-23
 
 - **Wide-range build**: one jar covers Minecraft 1.21.2 through 1.21.10 on Fabric / NeoForge / Forge

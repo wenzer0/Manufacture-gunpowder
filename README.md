@@ -33,6 +33,8 @@
 | 1.21.1 | Forge | 3.2.1 |
 | 1.21.1 | NeoForge | 3.2.1 |
 | 1.21.1 | Fabric | 3.2.1（需要 Fabric API） |
+| 1.20.2 – 1.20.4 | Fabric / NeoForge / Forge | 2.3.0（Fabric 需要 Fabric API） |
+| 1.20.5 – 1.21.1 | Fabric / NeoForge / Forge | 3.9.0（Fabric 需要 Fabric API；Forge 自 1.20.6） |
 | 1.20.4 | Forge | 2.2.0 |
 | 1.20.4 | NeoForge | 2.2.0 |
 | 1.20.4 | Fabric | 2.2.0（需要 Fabric API） |
@@ -50,6 +52,8 @@
 
 ```
 src/            Forge 1.20.1 完整可编译工程（配方即数据包 JSON，无 Java 逻辑）
+1.20.2-1.20.4/    v2.3.0 宽范围源文件
+1.20.5-1.21.1/    v3.9.0 宽范围源文件
 1.21.2-1.21.10/    v3.8.0 宽范围源文件（1.21.2–1.21.10，Fabric/NeoForge/Forge）
 26.3/           v3.7.0 源文件（配方 + Fabric/NeoForge/Forge 元数据）
 26.2/           v3.6.0 源文件（配方 + Fabric/NeoForge/Forge 元数据）
