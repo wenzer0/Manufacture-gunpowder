@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.0 — 2026-11-28
+
+- **1.12.2 Forge build refreshed** (replaces the old 0.1.0 jar)
+- Same recipes as 0.1.0 (coal/charcoal smelting -> gunpowder), now with proper metadata:
+  mod id `manufacturegunpowder`, correct name/author/version in `mcmod.info` (no more Example Mod placeholder)
+- Source now lives in the repo under `1.12.2/forge/`
+- Verified on a real Forge 1.12.2 (14.23.5.2860) dedicated server: both coal and charcoal smelt into gunpowder
+
 ## 3.5.0 / 3.6.0 / 3.7.0 — 2026-11-23
 
 - Ported to the 26.x era on **Fabric / NeoForge** (Fabric requires [Fabric API](https://modrinth.com/mod/fabric-api))
